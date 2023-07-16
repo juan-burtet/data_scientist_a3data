@@ -2,14 +2,14 @@
 
 Repositório utilizado para aplicar o desafio técnico para vaga de Cientista de Dados da empresa A3Data.
 
-├── README.md          <- README do projeto.
-├── data
-│   └── raw            <- Pasta com o dado original sem modificações.
-│
-├── notebooks          <- Notebooks explicando o desenvolvimento do projeto.
-│
-├── references         <- Pasta contendo o pdf com apresentando o problema.
-│
+├── README.md          <- README do projeto. \
+├── data \
+│   └── raw            <- Pasta com o dado original sem modificações. \
+│ \
+├── notebooks          <- Notebooks explicando o desenvolvimento do projeto. \
+│ \
+├── references         <- Pasta contendo o pdf com apresentando o problema. \
+│ \
 └── requirements       <- Pacotes utilizados pelo projeto.
 
 # Apresentação do problema:
